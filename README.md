@@ -8,7 +8,7 @@ Console application versão net5.0, usando conceitos sobre Regex.
 
 ## Como baixar o código
 
-git clone https://github.com/JucelioAmaral/ExemploMediatoR.git
+git clone https://github.com/JucelioAmaral/CShp_Regex_Console.git
 
 ## Como configurar?
 
